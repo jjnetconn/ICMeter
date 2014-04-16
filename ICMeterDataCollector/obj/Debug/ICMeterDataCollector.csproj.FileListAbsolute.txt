@@ -1,0 +1,7 @@
+c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.exe.config
+c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.exe
+c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.pdb
+c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.csprojResolveAssemblyReference.cache
+c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.exe
+c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.pdb
+c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\Newtonsoft.Json.dll

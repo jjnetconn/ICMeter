@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ICMeterDataCollector.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OpenWeatherURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://api.openweathermap.org/data/2.5/weather?lat=56.05&amp;lon=12.69</Value>
+    </Setting>
+    <Setting Name="ICMenterTokenURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://app.ic-meter.com/icm/oauth/token?client_id=trusted-client&amp;grant_type=password&amp;scope=trust&amp;username=demo@ic-meter.com&amp;password=demo</Value>
+    </Setting>
+    <Setting Name="Debug" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BoxIDs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">573;574;575;576</Value>
+    </Setting>
+    <Setting Name="DateTimeFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yyyy-MM-dd'T'HH:mm:ss'Z'</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

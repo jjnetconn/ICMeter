@@ -1,7 +1,9 @@
-c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.exe.config
-c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.exe
-c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.pdb
-c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.csprojResolveAssemblyReference.cache
-c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.exe
-c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.pdb
-c:\users\jesper\documents\visual studio 2013\Projects\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.exe.config
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.exe
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\ICMeterDataCollector.pdb
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.csprojResolveAssemblyReference.cache
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.exe
+C:\Users\jj\Source\Workspaces\TestProject\ICMeterDataCollector\ICMeterDataCollector\obj\Debug\ICMeterDataCollector.pdb

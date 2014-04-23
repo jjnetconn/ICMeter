@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Net;
 using Newtonsoft.Json;
 
+
 namespace ICMeterDataCollector
 {
     class WeatherData
